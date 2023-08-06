@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolasMbissaneNdour
 - 👀 I’m interested in App developement
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Ansible 
 - 💞️ I’m looking to collaborate on Web application developement
 - 📫 How to reach me with nicolasmbissanenour@gmail.com
 
