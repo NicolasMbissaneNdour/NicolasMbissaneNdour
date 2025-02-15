@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @NicolasMbissaneNdour
-- 👀 I’m interested in App developement
-- 🌱 I’m currently learning Ansible 
-- 💞️ I’m looking to collaborate on Web application developement
-- 📫 How to reach me with nicolasmbissanenour@gmail.com
+# 👋 Hi, I’m Nicolas Mbissane Ndour  
 
-<!---
-NicolasMbissaneNdour/NicolasMbissaneNdour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+- 👀 Passionate about application development and test automation  
+- 💻 Working with **Spring Boot, ASP.NET Core, Angular, Flutter, Docker, Kubernetes**  
+- 🛠️ Experienced in **test automation with Selenium and Cucumber**  
+- 💞️ Open to collaboration on **web and mobile application development**  
+
+## 📫 Connect with Me  
+📧 Email: nicolasmbissanenour@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nicolas-mbissane-ndour-41376b19a/)  
